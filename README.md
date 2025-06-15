@@ -1,7 +1,7 @@
 # Práctica Multilenguaje: Verificación de Palíndromos
 Integrantes
-Kenji Vladimir Reyes Cetz
-Isai Garcia Lopez
+- Kenji Vladimir Reyes Cetz
+- Isai Garcia Lopez
 
 ## Introducción
 
